@@ -1,4 +1,4 @@
-package com.devamatre.appsuite.metrics.entity;
+package com.rslakra.appsuite.metrics.entity;
 
 /**
  * @author Rohtash Lakra

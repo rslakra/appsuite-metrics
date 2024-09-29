@@ -1,6 +1,6 @@
-package com.devamatre.appsuite.metrics;
+package com.rslakra.appsuite.metrics;
 
-import com.devamatre.appsuite.metrics.entity.MetricMessage;
+import com.rslakra.appsuite.metrics.entity.MetricMessage;
 
 /**
  * @author Rohtash Lakra
